@@ -13,3 +13,5 @@ In chronograf setup the influxdb and kapacitor connection strings with their ful
 * http://a.b.c.d:9092 for kapacitor
 
 See https://www.youtube.com/watch?v=dk7ZdcNsrKE for a demo video
+
+See https://vimeo.com/191737015 for a talk about this stack by Influx 
